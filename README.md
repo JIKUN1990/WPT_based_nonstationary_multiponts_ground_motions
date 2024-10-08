@@ -1,5 +1,5 @@
 
-Pelase refer to Ji et al (2023) EEEV for more detials:
+Pelase refer to Ji et al (2024) EEEV for more detials:
 Article name: Efficient simulation of spatially correlated non-stationary ground motions by wavelet-packet algorithm and spectral representation method 
 % Program for generating multiplle spatially correlated non-stationary 
 % ground motions by wavelet-packet algorithm and spectral representation method 
